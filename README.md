@@ -6,3 +6,7 @@ Some changes made
 
 # Make some more changes 
 Second change made 
+
+
+#  Continue to work localy on the cloned rrepository without pulling the updates made in GitHub editor
+Here I add some more content ! 
